@@ -1,0 +1,36 @@
+* [31m481c625	[32m (HEAD -> master, origin/master)[0m Empty commit2
+* [31m4a0ed6c	[32m[0m Empty commit
+* [31mb6ce5f8	[32m (origin/unify-branches, unify-branches)[0m Govno
+* [31m95173cc	[32m[0m Map for storageSystem
+* [31mbac51d6	[32m[0m Finished Fix after rename
+* [31me741f3d	[32m[0m Some Shit, added iteminfo, Branch union
+* [31maee4074	[32m (origin/secondBranch, origin/Third, secondBranch)[0m Fucking mystery
+*   [31m14d994d	[32m[0m Merge branch 'secondBranch' of https://github.com/skyrimwell/BuildShop into secondBranch Conflict
+[32m|[m[33m\[m  
+[32m|[m * [31mcb5badc	[32m[0m fixed UI
+* [33m|[m [31m141b30e	[32m[0m Test generation using gameState
+[33m|[m[33m/[m  
+* [31m7423484	[32m[0m GameState implementation
+* [31m1fff1ff	[32m[0m Shit with UI
+* [31mcbca0b3	[32m[0m Created: widget fot storage slot
+* [31m8754a43	[32m[0m Created:  navigation between store and cass(based on target points). Sequences for navigation
+*   [31m144ca21	[32m[0m Merge branch 'master' into secondBranch
+[34m|[m[35m\[m  
+[34m|[m * [31mec69559	[32m[0m Random Order generator
+[34m|[m * [31m4145bf9	[32m[0m Merged with secondBranch, daylight cycle
+* [35m|[m [31m21e1f92	[32m[0m scene objects options corrrectiong
+[35m|[m[35m/[m  
+* [31m3a01289	[32m[0m Fixed: day cycle
+* [31m325dc88	[32m[0m Added: set night state
+* [31m41b2f1f	[32m[0m Added: moon (directional light)
+*   [31mf44625a	[32m[0m Merge branch 'secondBranch' of https://github.com/skyrimwell/BuildShop into secondBranch
+[36m|[m[1;31m\[m  
+[36m|[m * [31m6023f59	[32m[0m Manual time advance
+* [1;31m|[m [31m234d421	[32m[0m Update WC6AE12XUCE6N104ZLSSVH.uasset
+[1;31m|[m[1;31m/[m  
+* [31mb745ba7	[32m[0m Create: Daystates system (+ sun rotation)
+* [31md824386	[32m[0m +level
+* [31md24dd1c	[32m[0m RevisionTest
+* [31m70f0138	[32m[0m Returning content
+* [31m98a998e	[32m[0m Baza
+* [31m98b6759	[32m[0m Initial commit
