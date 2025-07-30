@@ -1,0 +1,185 @@
+commit 481c625d7ec94f978057d3d529a58a124d03bb76
+Author: Sora <skyrimwell@gmail.com>
+Date:   Tue Jul 29 22:02:54 2025 +0300
+
+    Empty commit2
+
+commit 4a0ed6c1bd9610a4a0924841d0b68dce1f23871e
+Author: Sora <skyrimwell@gmail.com>
+Date:   Tue Jul 29 21:59:22 2025 +0300
+
+    Empty commit
+
+commit b6ce5f8afcc8afa82d0fbbcb5a4db37c753ae45a
+Author: Sora <skyrimwell@gmail.com>
+Date:   Tue Jul 29 21:33:58 2025 +0300
+
+    Govno
+
+commit 95173cc58ae6185205c835ce382a52c8ba90900f
+Author: Sora <skyrimwell@gmail.com>
+Date:   Tue Jul 29 21:04:06 2025 +0300
+
+    Map for storageSystem
+
+commit bac51d65b5904fd347f1e75688e5691659f3b60e
+Author: Sora <skyrimwell@gmail.com>
+Date:   Tue Jul 29 20:15:21 2025 +0300
+
+    Finished Fix after rename
+
+commit e741f3d3b655e4ccbfdb4df8dd56f4f26f11ca82
+Author: Sora <skyrimwell@gmail.com>
+Date:   Tue Jul 29 19:41:25 2025 +0300
+
+    Some Shit, added iteminfo, Branch union
+
+commit aee40746696729d95ebe2eb1ddcdf886b0fed6f0
+Author: Sora <skyrimwell@gmail.com>
+Date:   Tue Jul 29 15:29:14 2025 +0300
+
+    Fucking mystery
+
+commit 14d994d82a3fee6ef61d105bab8c6c824cb02803
+Merge: 141b30e cb5badc
+Author: Sora <skyrimwell@gmail.com>
+Date:   Tue Jul 29 15:21:22 2025 +0300
+
+    Merge branch 'secondBranch' of https://github.com/skyrimwell/BuildShop into secondBranch
+    Conflict
+
+commit 141b30efe1ae41e0a52958e9c4d83e9cb125e00d
+Author: Sora <skyrimwell@gmail.com>
+Date:   Tue Jul 29 15:05:53 2025 +0300
+
+    Test generation using gameState
+
+commit cb5badcb935d5c76655e796e7581eaea804d47b0
+Author: kivvchanski <132572264+kivvchanski@users.noreply.github.com>
+Date:   Tue Jul 29 15:00:04 2025 +0300
+
+    fixed UI
+
+commit 7423484e9b40d44e3469dee24a45ddc495dff4b7
+Author: Sora <skyrimwell@gmail.com>
+Date:   Tue Jul 29 14:37:17 2025 +0300
+
+    GameState implementation
+
+commit 1fff1ff6881289dbb771977344972972ec8a8ad7
+Author: kivvchanski <132572264+kivvchanski@users.noreply.github.com>
+Date:   Tue Jul 29 13:32:37 2025 +0300
+
+    Shit with UI
+
+commit cbca0b30dbbe319f6de2b36367d4356a7a53a0a1
+Author: kivvchanski <132572264+kivvchanski@users.noreply.github.com>
+Date:   Sat Jul 26 13:36:36 2025 +0300
+
+    Created: widget fot storage slot
+
+commit 8754a43afa20f3e6f3593563f7b630d128ee3477
+Author: kivvchanski <132572264+kivvchanski@users.noreply.github.com>
+Date:   Sat Jul 26 09:49:44 2025 +0300
+
+    Created:  navigation between store and cass(based on target points). Sequences for navigation
+
+commit 144ca21f0f8c57301a696f42a4a4467534b7ac94
+Merge: 21e1f92 ec69559
+Author: kivvchanski <132572264+kivvchanski@users.noreply.github.com>
+Date:   Thu Jul 24 20:05:24 2025 +0300
+
+    Merge branch 'master' into secondBranch
+
+commit 21e1f92a5f972c7c7d0cbbb370fe465b06bb8586
+Author: kivvchanski <132572264+kivvchanski@users.noreply.github.com>
+Date:   Thu Jul 24 19:14:31 2025 +0300
+
+    scene objects options corrrectiong
+
+commit ec69559b0a1796d475a1532d8f25c5355f957aae
+Author: Sora <skyrimwell@gmail.com>
+Date:   Thu Jul 24 18:57:48 2025 +0300
+
+    Random Order generator
+
+commit 4145bf9feb44b77b5a498f6c0f804d36e9836c9e
+Author: Sora <skyrimwell@gmail.com>
+Date:   Thu Jul 24 15:58:51 2025 +0300
+
+    Merged with secondBranch, daylight cycle
+
+commit 3a01289ee5c9156eca0db65c466629ba0d9d2f6e
+Author: kivvchanski <132572264+kivvchanski@users.noreply.github.com>
+Date:   Thu Jul 24 15:54:18 2025 +0300
+
+    Fixed: day cycle
+
+commit 325dc8861fd3bed18b6961c513c8be12aa9ef839
+Author: kivvchanski <132572264+kivvchanski@users.noreply.github.com>
+Date:   Thu Jul 24 15:47:30 2025 +0300
+
+    Added: set night state
+
+commit 41b2f1f544de2a38504389e1fd5a5e2de65f90e3
+Author: kivvchanski <132572264+kivvchanski@users.noreply.github.com>
+Date:   Thu Jul 24 15:20:06 2025 +0300
+
+    Added: moon (directional light)
+
+commit f44625a0fc7570e2b0aa044da974363aea06e85e
+Merge: 234d421 6023f59
+Author: kivvchanski <132572264+kivvchanski@users.noreply.github.com>
+Date:   Thu Jul 24 15:14:01 2025 +0300
+
+    Merge branch 'secondBranch' of https://github.com/skyrimwell/BuildShop into secondBranch
+
+commit 234d4218bfb4ce98d9a070be7825fd2fa5a553f5
+Author: kivvchanski <132572264+kivvchanski@users.noreply.github.com>
+Date:   Thu Jul 24 15:13:54 2025 +0300
+
+    Update WC6AE12XUCE6N104ZLSSVH.uasset
+    
+    moon
+
+commit 6023f59ffd3e1ec7f70542b1b72c2d50aaba5bab
+Author: Sora <skyrimwell@gmail.com>
+Date:   Thu Jul 24 15:09:26 2025 +0300
+
+    Manual time advance
+
+commit b745ba7ad7dd656e75bfaa6dd9904d55cc918cd1
+Author: kivvchanski <132572264+kivvchanski@users.noreply.github.com>
+Date:   Tue Jul 22 22:22:14 2025 +0300
+
+    Create: Daystates system (+ sun rotation)
+
+commit d8243866a765aa582146ecdd08b789403b0183bf
+Author: kivvchanski <132572264+kivvchanski@users.noreply.github.com>
+Date:   Sun Jul 20 22:40:07 2025 +0300
+
+    +level
+
+commit d24dd1c64407b0d54cc8713730c219c977bfac26
+Author: Sora <skyrimwell@gmail.com>
+Date:   Sun Jul 20 22:08:44 2025 +0300
+
+    RevisionTest
+
+commit 70f013826d008b8d34d3659569d85a640c9a46ca
+Author: Sora <skyrimwell@gmail.com>
+Date:   Sun Jul 20 22:05:40 2025 +0300
+
+    Returning content
+
+commit 98a998e3d16917cff3f58c7aba25a0d8f69ed3dd
+Author: Sora <skyrimwell@gmail.com>
+Date:   Sun Jul 20 21:58:38 2025 +0300
+
+    Baza
+
+commit 98b67592e860c7ec925ce759f0034535a4bd5981
+Author: Sora <skyrimwell@gmail.com>
+Date:   Sun Jul 20 21:55:01 2025 +0300
+
+    Initial commit
