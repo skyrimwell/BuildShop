@@ -1,10 +1,10 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "testActor.h"
+#include "testNewActor.h"
 
 // Sets default values
-AtestActor::AtestActor()
+AtestNewActor::AtestNewActor()
 {
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
@@ -12,18 +12,17 @@ AtestActor::AtestActor()
 }
 
 // Called when the game starts or when spawned
-void AtestActor::BeginPlay()
+void AtestNewActor::BeginPlay()
 {
 	Super::BeginPlay();
 	
 }
 
 // Called every frame
-void AtestActor::Tick(float DeltaTime)
+void AtestNewActor::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-	UE_LOG(LogTemp, Log, TEXT("casdged"));
-	UE_LOG(LogTemp, Warning, TEXT("warn"));
-	UE_LOG(LogTemp, Log, TEXT("err"));
+	UE_LOG(LogTemp, Warning, TEXT("4523709808970520493t78902304957809230495"));
+
 }
 
