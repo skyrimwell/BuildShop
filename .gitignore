@@ -16,3 +16,9 @@ Binaries/
 Intermediate/
 .vs/
 Saved/
+
+# Misc files
+.ignore
+*.code-workspace
+Makefile
+start.sh
