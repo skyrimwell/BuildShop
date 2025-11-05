@@ -25,3 +25,4 @@ start.sh
 Build/*
 Content/__ExternalActors__/*
 Content/__ExternalObjects__/*
+/Plugins/flat-nodes/*
