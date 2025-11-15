@@ -23,7 +23,7 @@ Saved/
 Makefile
 start.sh
 Build/*
-Content/__ExternalActors__/*
-Content/__ExternalObjects__/*
+/Content/__ExternalActors__/*
+/Content/__ExternalObjects__/*
 /Plugins/flat-nodes/*
 /Plugins/BlueprintAssist/*
