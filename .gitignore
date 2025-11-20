@@ -16,3 +16,14 @@ Binaries/
 Intermediate/
 .vs/
 Saved/
+
+# Misc files
+.ignore
+*.code-workspace
+Makefile
+start.sh
+Build/*
+/Content/__ExternalActors__/*
+/Content/__ExternalObjects__/*
+/Plugins/flat-nodes/*
+/Plugins/BlueprintAssist/*
