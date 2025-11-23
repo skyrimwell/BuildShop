@@ -17,22 +17,6 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
-		},
-		{
-			"Name": "CommonUI",
-			"Enabled": true
-		},
-		{
-			"Name": "N10XSourceCodeAccess",
-			"Enabled": false
-		},
-		{
-			"Name": "PerforceSourceControl",
-			"Enabled": false
 		}
-	],
-	"TargetPlatforms": [
-		"Linux",
-		"Windows"
 	]
 }
