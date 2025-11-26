@@ -78,8 +78,8 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Cache files of External Actors / Objects
-__ExternalActors__/
-__ExternalObjects__/
+# __ExternalActors__/
+# __ExternalObjects__/
 
 # Ignore user specific folders.
 Content/Developers
