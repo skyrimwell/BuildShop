@@ -17,6 +17,30 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorTelemetry",
+			"Enabled": false
+		},
+		{
+			"Name": "RuntimeTelemetry",
+			"Enabled": false
+		},
+		{
+			"Name": "N10XSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Linux",
+		"Windows"
 	]
 }
