@@ -115,7 +115,4 @@ Plugins/**/Intermediate/*
 *.code-workspace
 Makefile
 
-# Git
-.git/*
-
 # End
