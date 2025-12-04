@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright BuildStore Team. All Rights Reserved.
 
 #include "BuildStore.h"
 #include "Modules/ModuleManager.h"
