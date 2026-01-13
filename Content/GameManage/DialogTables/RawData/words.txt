@@ -1,0 +1,98 @@
+I_Hammer
+I_Pliers
+I_RoundNosePliers
+I_ElScrewdriver
+I_Drill
+I_Screwdriver
+I_BuildingLevel
+I_Spanner
+I_MeasuringTape
+I_Multimeter
+I_Solderinglron
+I_Jigsaw
+I_Hacksaw
+I_AngleGrinder
+I_Flashlight
+I_Toolbox
+I_FoamGun
+I_CircularSaw
+I_NailsBox6
+I_NailsBox8
+I_NailsBox10
+I_NutsBox6
+I_NutsBox8
+I_NutsBox10
+I_ScrewsBox6
+I_ScrewsBox8
+I_ScrewsBox10
+I_Stripper
+I_Knife
+I_VoltageTester
+I_Pincers
+I_SafetyGloves
+I_ElectricalTape
+I_DuctTape
+I_MaskingTape
+I_SuperGlue
+I_SelfTappingScrewsBox
+I_SelfTappingScrewsBox
+I_SelfTappingScrewsBox1
+I_DowelBox6
+I_DowelBox8
+I_DowelBox10
+I_StationeryKnife
+I_NailGun
+I_SprayGun
+I_Router
+I_Chainsaw
+I_Chisel
+
+Молоток
+Пассатижи
+Круглогубцы
+Шуруповерт
+Дрель
+Отвертка
+Строительный уровень
+Гаечный Ключ
+Рулетка
+Мультиметр
+Паяльник
+Электрический лобзик
+Ножовка
+Болгарка
+Фонарик
+Ящик для инструментов
+Пистолет для пены
+Циркулярная пила
+Гвозди маленькие
+Гвозди средние
+Гвозди большие
+Гайки маленькие
+Гайки средние
+Гайки большие
+Винты маленькие
+Винты средние
+Винты большие
+Стриппер
+Монтерский нож
+Тестер напряжения
+Клещи
+Перчатки
+Изолента
+Скотч
+Малярная лента
+Суперклей
+Саморезы маленькие
+Саморезы средние
+Саморезы большие
+Дюбели маленькие
+Дюбели средние
+Дюбели большие
+Канцелярский нож
+Гвоздезабиватель
+Краскопульт
+Фрезер
+Бензопила
+Стамеска
+
